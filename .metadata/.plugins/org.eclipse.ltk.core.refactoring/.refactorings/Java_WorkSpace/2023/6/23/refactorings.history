@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;Java_WorkSpace/src/Array/Multi.java&apos; to &apos;Multi_Array.java&apos;" description="Rename resource &apos;Multi.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/Array/Multi.java" name="Multi_Array.java" stamp="1686230884200" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;Java_WorkSpace/src/Array&apos; to &apos;Arrays&apos;" description="Rename resource &apos;Array&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/Array" name="Arrays" stamp="1686232538115" updateReferences="true"/>
+</session>
